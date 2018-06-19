@@ -1,2 +1,1 @@
-
-credits:Sentdex Tutorial <a href = "https://pythonprogramming.net/basic-webapp-tutorial-tensorflowjs"/></a>
+credits:Sentdex [link to tutorial](https://pythonprogramming.net/basic-webapp-tutorial-tensorflowjs/)
